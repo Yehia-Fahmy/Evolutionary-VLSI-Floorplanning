@@ -1,0 +1,9 @@
+matplotlib
+numpy
+ax-platform
+optuna
+optunahub
+tqdm
+cmaes
+pymoo
+scipy

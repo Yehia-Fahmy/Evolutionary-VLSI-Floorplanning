@@ -1,0 +1,4 @@
+benchmark,best_area,best_hpwl,best_dead_or_overflow,pareto_size
+synthetic_50,131298.0,0.0,20047.0,200
+ami33,1522920.0,602.0,366562.0,33
+ami49,44289728.0,526211.0,8849960.0,19
